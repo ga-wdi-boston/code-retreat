@@ -24,14 +24,14 @@ We'll complete the following activities. With the exception of the first, they s
 1. Caveman Coder (30 minutes)
 1. Ping-pong (45 mintues)
 1. Silent Coder (45 mintues)
-1. Small Methods (45 mintues)
+1. Flat Files (45 mintues)
 1. Free-for-all (1 hour)
 
 <!--
 1. Caveman Coder: whiteboard only
 1. Ping-pong: one writes tests, the other code; switch halfway
 1. Silent Coder: no talking allowed
-1. Small Methods: no methos longer than 4 lines
+1. Flat Files: no nested conditionals
 1. Free-for-all: no constraints
 -->
 
@@ -58,6 +58,7 @@ The "game" is a zero-player game, meaning that its evolution is determined by it
 The universe of the Game of Life is an **infinite two-dimensional orthogonal grid** of square cells, each of which is in one of two possible states, live or dead. Every cell interacts with its eight neighbors, which are the cells that are directly horizontally, vertically, or diagonally adjacent.
 
 #### Rules
+
 At each step in time, the following transitions occur:
 
 1. Any live cell with fewer than two live neighbours dies, as if caused by underpopulation.
@@ -67,10 +68,21 @@ At each step in time, the following transitions occur:
 
 The initial pattern constitutes the seed of the system. The first generation is created by applying the above rules simultaneously to every cell in the seed. **Births and deaths happen simultaneously**, and the discrete moment at which this happens is sometimes called a `tick` (in other words, each generation is a pure function of the one before). The rules continue to be applied repeatedly to create further generations.
 
+#### Tips \& Tricks
+
+You are **not** expected to finish the exercise in any particular round.
+
+Even though your solution should work with an infinite grid, it can be beneficial to start with a large, finite grid. Your solution should work for a grid of at least 80x80 cells.
+
+You may want to solve the problem for an infinite grid, but initialize the game with a finite grid so it can be displayed on screen.
+
+Your solution should work with any arbitrary starting arrangement of dead and alive cells. Try initializing each tile randomly with either an alive or a dead cell.
+
 ## Bonus
 
 If you're looking for extra challenge or practice once you've completed the above, try pairing with someone using the following constraints:
 
+- Small methods. No methods longer than four lines.
 - No mutation of state allowed. Once a variable is assigned, it cannot change.
 - No conditionals. Do not use `if/else` and friends.
 - No loops.
