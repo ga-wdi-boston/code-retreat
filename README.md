@@ -58,6 +58,7 @@ The "game" is a zero-player game, meaning that its evolution is determined by it
 The universe of the Game of Life is an **infinite two-dimensional orthogonal grid** of square cells, each of which is in one of two possible states, live or dead. Every cell interacts with its eight neighbors, which are the cells that are directly horizontally, vertically, or diagonally adjacent.
 
 #### Rules
+
 At each step in time, the following transitions occur:
 
 1. Any live cell with fewer than two live neighbours dies, as if caused by underpopulation.
@@ -66,6 +67,16 @@ At each step in time, the following transitions occur:
 4. Any dead cell with exactly three live neighbours becomes a live cell.
 
 The initial pattern constitutes the seed of the system. The first generation is created by applying the above rules simultaneously to every cell in the seed. **Births and deaths happen simultaneously**, and the discrete moment at which this happens is sometimes called a `tick` (in other words, each generation is a pure function of the one before). The rules continue to be applied repeatedly to create further generations.
+
+#### Tips \& Tricks
+
+You are **not** expected to finish the exercise in any particular round.
+
+Even though your solution should work with an infinite grid, it can be beneficial to start with a large, finite grid. Your solution should work for a grid of at least 80x80 cells.
+
+You may want to solve the problem for an infinite grid, but initialize the game with a finite grid so it can be displayed on screen.
+
+Your solution should work with any arbitrary starting arrangement of dead and alive cells. Try initializing each tile randomly with either an alive or a dead cell.
 
 ## Bonus
 
