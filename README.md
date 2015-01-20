@@ -15,13 +15,19 @@ By the end of this, students should be able to:
 
 This code retreat will consist of four to five pairing rounds. Try to pair with someone new each time. For each round, you and your pair will work on implementing Conway's Game of Life in ruby (see below). After each round we will hold a quick retrospective to share our experiences with each other.
 
+<!--
+Instructor note: Code should be deleted between each round. It's fun to watch the looks on student faces when they hear this the first time.
+-->
+
 We'll complete the following activities. With the exception of the first, they should all be practiced test-first:
 
-- Caveman Coder (30 minutes)
-- Ping-pong (45 mintues)
-- Silent Coder (45 mintues)
-- Small Methods (45 mintues)
-- Free-for-all (1 hour)
+- Caveman Coder (30 minutes) <!-- whiteboard only -->
+- Ping-pong (45 mintues) <!-- one writes tests, the other code; switch halfway -->
+- Silent Coder (45 mintues) <!-- no talking allowed -->
+- Small Methods (45 mintues) <!-- no methos longer than 4 lines -->
+- Free-for-all (1 hour) <!-- no constraints -->
+
+Before we get started, let's review the purpose of a code retreat and understand the problem we'll be solving.
 
 ## Notes
 
