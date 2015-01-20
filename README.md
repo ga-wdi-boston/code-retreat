@@ -24,14 +24,14 @@ We'll complete the following activities. With the exception of the first, they s
 1. Caveman Coder (30 minutes)
 1. Ping-pong (45 mintues)
 1. Silent Coder (45 mintues)
-1. Small Methods (45 mintues)
+1. Flat Files (45 mintues)
 1. Free-for-all (1 hour)
 
 <!--
 1. Caveman Coder: whiteboard only
 1. Ping-pong: one writes tests, the other code; switch halfway
 1. Silent Coder: no talking allowed
-1. Small Methods: no methos longer than 4 lines
+1. Flat Files: no nested conditionals
 1. Free-for-all: no constraints
 -->
 
@@ -82,6 +82,7 @@ Your solution should work with any arbitrary starting arrangement of dead and al
 
 If you're looking for extra challenge or practice once you've completed the above, try pairing with someone using the following constraints:
 
+- Small methods. No methods longer than four lines.
 - No mutation of state allowed. Once a variable is assigned, it cannot change.
 - No conditionals. Do not use `if/else` and friends.
 - No loops.
