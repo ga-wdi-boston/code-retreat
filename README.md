@@ -92,3 +92,6 @@ If you have a working solution you like, post it to GitHub. It's great for emplo
 ## Additional Resources
 
 - [Screencast: Coding Conway’s Game of Life in Ruby the TDD Way with RSpec](http://www.rubyinside.com/screencast-coding-conways-game-of-life-in-ruby-the-tdd-way-with-rspec-5564.html)
+- [A few git tips you didn't know about](http://mislav.uniqpath.com/2010/07/git-tips/)
+- [Fork A Repo - User Documentation](https://help.github.com/articles/fork-a-repo/)
+- [Syncing a fork - User Documentation](https://help.github.com/articles/syncing-a-fork/)
