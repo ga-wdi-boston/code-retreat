@@ -23,7 +23,7 @@ We'll complete the following activities. With the exception of the first, they s
 
 1. Caveman Coder (30 minutes)
 1. Ping-pong (45 mintues)
-1. Silent Coder (30 mintues)
+1. Silent Coder (15 mintues)
 1. Flat Files (45 mintues)
 1. Free-for-all (1 hour)
 
