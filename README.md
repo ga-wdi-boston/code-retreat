@@ -80,6 +80,8 @@ Your solution should work with any arbitrary starting arrangement of dead and al
 
 The hardest part might be getting started. Decide what class you want to use to represent cells or tiles, write a spec that expects that class, and then write the class to make it pass. Then, start adding small features to your class test-first.
 
+For pairing exercises, try using one computer, and pass it between yourself and your pair. Work together and in sequence. You and pair should not be working in separate files at the same time.
+
 ## Bonus
 
 If you're looking for extra challenge or practice once you've completed the above, try pairing with someone using the following constraints:
