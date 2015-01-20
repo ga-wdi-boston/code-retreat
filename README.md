@@ -21,11 +21,11 @@ Instructor note: Code should be deleted between each round. It's fun to watch th
 
 We'll complete the following activities. With the exception of the first, they should all be practiced test-first:
 
-1. Caveman Coder (30 minutes) <!-- whiteboard only -->
-1. Ping-pong (45 mintues) <!-- one writes tests, the other code; switch halfway -->
-1. Silent Coder (45 mintues) <!-- no talking allowed -->
-1. Small Methods (45 mintues) <!-- no methos longer than 4 lines -->
-1. Free-for-all (1 hour) <!-- no constraints -->
+1. Caveman Coder (30 minutes)
+1. Ping-pong (45 mintues)
+1. Silent Coder (45 mintues)
+1. Small Methods (45 mintues)
+1. Free-for-all (1 hour)
 
 <!--
 1. Caveman Coder: whiteboard only
