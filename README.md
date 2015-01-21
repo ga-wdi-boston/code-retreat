@@ -23,7 +23,7 @@ We'll complete the following activities. With the exception of the first, they s
 
 1. Caveman Coder (30 minutes)
 1. Ping-pong (45 mintues)
-1. Silent Coder (45 mintues)
+1. Silent Coder (15 mintues)
 1. Flat Files (45 mintues)
 1. Free-for-all (1 hour)
 
@@ -77,6 +77,10 @@ Even though your solution should work with an infinite grid, it can be beneficia
 You may want to solve the problem for an infinite grid, but initialize the game with a finite grid so it can be displayed on screen.
 
 Your solution should work with any arbitrary starting arrangement of dead and alive cells. Try initializing each tile randomly with either an alive or a dead cell.
+
+The hardest part might be getting started. Decide what class you want to use to represent cells or tiles, write a spec that expects that class, and then write the class to make it pass. Then, start adding small features to your class test-first.
+
+For pairing exercises, try using one computer, and pass it between yourself and your pair. Work together and in sequence. You and pair should not be working in separate files at the same time.
 
 ## Bonus
 
