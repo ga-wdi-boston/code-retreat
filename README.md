@@ -6,8 +6,8 @@
 
 By the end of this, students should be able to:
 
-- Pair with other students in a ping-pong, test-driven style.
-- Explain the value of team communication and test-driven development in their own words.
+- Pair with other developers under a variety of constraints.
+- Explain the value of team communication in their own words.
 - Solve a problem in multiple ways by "spiking".
 - Choose an implementation strategy for a problem using lessons learned from spikes.
 
