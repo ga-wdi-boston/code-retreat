@@ -13,24 +13,37 @@ By the end of this, students should be able to:
 
 ## Instructions
 
-This code retreat will consist of four to five pairing rounds. Try to pair with someone new each time. For each round, you and your pair will work on implementing Conway's Game of Life in ruby (see below). After each round we will hold a quick retrospective to share our experiences with each other.
+This code retreat will consist of several pairing rounds. Try to pair with someone new each time. For each round, you and your pair will work on implementing Conway's Game of Life in ruby (see below). After each round we will hold a quick retrospective to share our experiences with each other.
 
 <!--
 Instructor note: Code should be deleted between each round. It's fun to watch the looks on student faces when they hear this the first time.
+
+For more ideas on challenges, check out http://coderetreat.org/facilitating/activity-catalog
 -->
 
 We'll complete the following activities. With the exception of the first, they should all be practiced test-first:
 
-1. Caveman Coder (30 minutes)
-1. Ping-pong (45 mintues)
+1. Caveman Coder (60 minutes)
+1. Retro (15 minutes)
+1. Break (10 minutes)
+1. Navigator-Driver (60 mintues)
+1. Retro (15 minutes)
+1. Break (10 minutes)
 1. Silent Coder (15 mintues)
-1. Flat Files (45 mintues)
-1. Free-for-all (1 hour)
+1. Retro (15 minutes)
+1. Lunch (60 minutes)
+1. Flat Files (60 mintues)
+1. Retro (15 minutes)
+1. Break (10 minutes)
+1. Free-for-all (60 minutes)
+1. Retro (15 minutes)
+1. Break (10 minutes)
+1. Retro of the Day (15 minutes)
 
 <!--
 1. Caveman Coder: whiteboard only
-1. Ping-pong: one writes tests, the other code; switch halfway
-1. Silent Coder: no talking allowed
+1. Navigator-Driver: One types, the other dictates; switch every 15 minutes
+1. Silent Coder: no talking allowed in pair
 1. Flat Files: no nested conditionals
 1. Free-for-all: no constraints
 -->
