@@ -21,24 +21,22 @@ Instructor note: Code should be deleted between each round. It's fun to watch th
 For more ideas on challenges, check out http://coderetreat.org/facilitating/activity-catalog
 -->
 
-We'll complete the following activities:
+After a brief introduction, we will whiteboard the rules. Then, we'll complete the following activities:
 
-1. Caveman Coder (60 minutes)
+* Caveman Coder (60 minutes)
     * Retro (15 minutes)
     * Break (10 minutes)
-1. Navigator-Driver (60 mintues)
+* Navigator-Driver (60 mintues)
     * Retro (15 minutes)
     * Break (10 minutes)
-1. Silent Coder (15 mintues)
+* Lunch (60 minutes)
+* Silent Coder (15 mintues)
     * Retro (15 minutes)
-    * Lunch (60 minutes)
-1. Flat Files (60 mintues)
-    * Retro (15 minutes)
-    * Break (10 minutes)
-1. Free-for-all (60 minutes)
+* Flat Files (60 mintues)
     * Retro (15 minutes)
     * Break (10 minutes)
-1. Retro of the Day (15 minutes)
+* Free-for-all (120 minutes)
+* Retro of the Day (15 minutes)
 
 <!--
 1. Caveman Coder: whiteboard only
