@@ -1,6 +1,6 @@
 ![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
 
-# Ruby \& RSpec Lab: Code Retreat
+# Ruby Lab Day: Code Retreat
 
 ## Objectives
 
@@ -21,23 +21,23 @@ Instructor note: Code should be deleted between each round. It's fun to watch th
 For more ideas on challenges, check out http://coderetreat.org/facilitating/activity-catalog
 -->
 
-We'll complete the following activities. With the exception of the first, they should all be practiced test-first:
+We'll complete the following activities:
 
 1. Caveman Coder (60 minutes)
-1. Retro (15 minutes)
-1. Break (10 minutes)
+    * Retro (15 minutes)
+    * Break (10 minutes)
 1. Navigator-Driver (60 mintues)
-1. Retro (15 minutes)
-1. Break (10 minutes)
+    * Retro (15 minutes)
+    * Break (10 minutes)
 1. Silent Coder (15 mintues)
-1. Retro (15 minutes)
-1. Lunch (60 minutes)
+    * Retro (15 minutes)
+    * Lunch (60 minutes)
 1. Flat Files (60 mintues)
-1. Retro (15 minutes)
-1. Break (10 minutes)
+    * Retro (15 minutes)
+    * Break (10 minutes)
 1. Free-for-all (60 minutes)
-1. Retro (15 minutes)
-1. Break (10 minutes)
+    * Retro (15 minutes)
+    * Break (10 minutes)
 1. Retro of the Day (15 minutes)
 
 <!--
