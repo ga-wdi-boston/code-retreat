@@ -35,6 +35,7 @@ the following activities. Each activity will be followed by a retro and a break.
 1.  Silent Coder (15 mintues)
 1.  Flat Files (30 mintues)
 1.  Sandi's Rules (30 minutes)
+1.  Git Happens (30 minutes)
 1.  Free-for-all (60 minutes)
 1.  Retro of the Day (15 minutes)
 
@@ -44,6 +45,7 @@ the following activities. Each activity will be followed by a retro and a break.
 1. Silent Coder: no talking allowed in pair
 1. Flat Files: no nested conditionals
 1. Sandi's Rules: https://robots.thoughtbot.com/sandi-metz-rules-for-developers
+1. Git Happens: randomly during the exercise, lose any uncommitted code
 1. Free-for-all: no constraints
 -->
 
