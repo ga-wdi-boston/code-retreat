@@ -28,49 +28,29 @@ http://coderetreat.org/facilitating/activity-catalog
 -->
 
 After a brief introduction, we will whiteboard the rules. Then, we'll complete
-the following activities:
+the following activities. Each activity will be followed by a retro and a break.
 
-1.  Caveman Coder (60 minutes)
-
-    -   Retro (15 minutes)
-    -   Break (10 minutes)
-
-1.  Navigator-Driver (60 mintues)
-
-    -   Retro (15 minutes)
-    -   Break (10 minutes)
-
+1.  Caveman Coder (45 minutes)
+1.  Navigator-Driver (30 mintues)
 1.  Silent Coder (15 mintues)
-
-    -   Retro (15 minutes)
-    -   Lunch (60 minutes)
-
-1.  Flat Files (60 mintues)
-
-    -   Retro (15 minutes)
-    -   Break (10 minutes)
-
+1.  Flat Files (30 mintues)
+1.  Sandi's Rules (30 minutes)
 1.  Free-for-all (60 minutes)
-
-    -   Retro (15 minutes)
-    -   Break (10 minutes)
-
 1.  Retro of the Day (15 minutes)
 
 <!--
-1. Caveman Coder: whiteboard only
+1. Caveman Coder: whiteboard only, switch with another team after 30 minutes
 1. Navigator-Driver: One types, the other dictates; switch every 15 minutes
 1. Silent Coder: no talking allowed in pair
 1. Flat Files: no nested conditionals
+1. Sandi's Rules: https://robots.thoughtbot.com/sandi-metz-rules-for-developers
 1. Free-for-all: no constraints
 -->
 
 Before we get started, let's review the purpose of a code retreat and understand
 the problem we'll be solving.
 
-## Notes
-
-### Code Retreat
+## Code Retreat
 
 A code retreat is a day-long intensive practice, focusing on fundamentals. Pairs
 of programmers tackle the same problem multiple times under different
@@ -81,7 +61,7 @@ and iterative development.
 Corey Haines expalins the goals of a code retreat in [Cleveland Code Retreat
 Introduction on Vimeo](http://vimeo.com/18955165).
 
-### Conway's Game of Life
+## Conway's Game of Life
 
 The Game of Life, also known simply as Life, is a cellular automaton devised by
 the British mathematician John Horton Conway in 1970.
@@ -99,7 +79,7 @@ grid** of square cells, each of which is in one of two possible states, live or
 dead. Every cell interacts with its eight neighbors, which are the cells that
 are directly horizontally, vertically, or diagonally adjacent.
 
-#### Rules
+### Rules
 
 At each step in time, the following transitions occur:
 
@@ -118,7 +98,7 @@ this happens is sometimes called a `tick` (in other words, each generation is a
 pure function of the one before). The rules continue to be applied repeatedly to
 create further generations.
 
-#### Tips \& Tricks
+### Tips & Tricks
 
 You are **not** expected to finish the exercise in any particular round.
 
@@ -134,9 +114,8 @@ alive cells. Try initializing each tile randomly with either an alive or a dead
 cell.
 
 The hardest part might be getting started. Decide what class you want to use to
-represent cells or tiles, write a spec that expects that class, and then write
-the class to make it pass. Then, start adding small features to your class
-test-first.
+represent cells or tiles. Then, start adding small features to your class one
+at a time.
 
 For pairing exercises, try using one computer, and pass it between yourself and
 your pair. Work together and in sequence. You and pair should not be working in
