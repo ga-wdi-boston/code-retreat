@@ -30,6 +30,8 @@ http://coderetreat.org/facilitating/activity-catalog
 After a brief introduction, we will whiteboard the rules. Then, we'll complete
 the following activities. Each activity will be followed by a retro and a break.
 
+These times are subject to, and most likely __will__ change.
+
 1.  Caveman Coder (45 minutes)
 1.  Navigator-Driver (30 mintues)
 1.  Silent Coder (15 mintues)
@@ -46,7 +48,7 @@ the following activities. Each activity will be followed by a retro and a break.
 1.  Silent Coder: no talking allowed in pair
 1.  Flat Files: no nested conditionals
 1.  Sandi's Rules: https://robots.thoughtbot.com/sandi-metz-rules-for-developers
-1.  Git Happens: randomly during the exercise, lose any uncommitted code
+1.  Git Happens: randomly during the exercise, lose any uncommitted code (git reset --hard HEAD~1)
 1.  Hot Potato: only one can work at a time, switch 5 minutes, no communication,
     delete uncommitted code
 1.  Free-for-all: no constraints
