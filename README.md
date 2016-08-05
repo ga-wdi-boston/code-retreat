@@ -77,6 +77,11 @@ Visualization of the Game of Life:
 
 ![Alt Conway's Game of Life](http://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif)
 
+<!--
+Image from Population Dynamics(http://www.slideshare.net/pelikan/stars2012-finalpresentation)
+
+-->
+
 The "game" is a zero-player game, meaning that its evolution is determined by
 its initial state, requiring no further input. One interacts with the Game of
 Life by creating an initial configuration and observing how it evolves.
@@ -104,6 +109,11 @@ created by applying the above rules simultaneously to every cell in the seed.
 this happens is sometimes called a `tick` (in other words, each generation is a
 pure function of the one before). The rules continue to be applied repeatedly to
 create further generations.
+
+Here is a visual representation of what is happening:
+
+![population-dynamics-in-conways-game-of-life-and-its-variants-9-728](https://cloud.githubusercontent.com/assets/10408784/17438008/b3013c1a-5aee-11e6-888c-65946800ebcd.jpg)
+
 
 ### Tips & Tricks
 
