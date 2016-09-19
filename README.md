@@ -114,7 +114,6 @@ Here is a visual representation of what is happening:
 
 ![population-dynamics-in-conways-game-of-life-and-its-variants-9-728](https://cloud.githubusercontent.com/assets/10408784/17438008/b3013c1a-5aee-11e6-888c-65946800ebcd.jpg)
 
-
 ### Tips & Tricks
 
 You are **not** expected to finish the exercise in any particular round.
@@ -160,8 +159,9 @@ of Simple Design](http://xprogramming.com/classics/expemergentdesign/).
 -   [A few git tips you didn't know about](http://mislav.uniqpath.com/2010/07/git-tips/)
 -   [Fork A Repo - User Documentation](https://help.github.com/articles/fork-a-repo/)
 -   [Syncing a fork - User Documentation](https://help.github.com/articles/syncing-a-fork/)
-
+s
 ## [License](LICENSE)
 
-Source code distributed under the MIT license. Text and other assets copyright
-General Assembly, Inc., all rights reserved.
+1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
+1.  All software code is licensed under GNU GPLv3. For commercial use or alternative
+licensing, please contact legal@ga.co.
