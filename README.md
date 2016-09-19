@@ -159,7 +159,7 @@ of Simple Design](http://xprogramming.com/classics/expemergentdesign/).
 -   [A few git tips you didn't know about](http://mislav.uniqpath.com/2010/07/git-tips/)
 -   [Fork A Repo - User Documentation](https://help.github.com/articles/fork-a-repo/)
 -   [Syncing a fork - User Documentation](https://help.github.com/articles/syncing-a-fork/)
-s
+
 ## [License](LICENSE)
 
 1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
