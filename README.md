@@ -39,6 +39,7 @@ These times are subject to, and most likely __will__ change.
 1.  Sandi's Rules (30 minutes)
 1.  Git Happens (30 minutes)
 1.  Hot Potato (30 minutes)
+1.  Many-to-one (30 minutes)
 1.  Free-for-all (60 minutes)
 1.  Retro of the Day (15 minutes)
 
@@ -51,7 +52,9 @@ These times are subject to, and most likely __will__ change.
 1.  Git Happens: randomly during the exercise, lose any uncommitted code (git reset --hard HEAD~1)
 1.  Hot Potato: only one can work at a time, switch 5 minutes, no communication,
     delete uncommitted code
+1.  Many to one: One brave soul following the groups instructions.
 1.  Free-for-all: no constraints
+
 -->
 
 Before we get started, let's review the purpose of a code retreat and understand
