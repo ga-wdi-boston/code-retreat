@@ -68,7 +68,7 @@ constraints. The constraints are chosen to emphasize the value of modern
 development practices like test-driven development, pair programming, patterns,
 and iterative development.
 
-Corey Haines expaliAns the goals of a code retreat in [Cleveland Code Retreat
+Corey Haines explains the goals of a code retreat in [Cleveland Code Retreat
 Introduction on Vimeo](http://vimeo.com/18955165).
 
 ## Conway's Game of Life
@@ -99,13 +99,13 @@ are directly horizontally, vertically, or diagonally adjacent.
 
 At each step in time, the following transitions occur:
 
-1.  Any live cell with fewer than two live neighbours dies, as if caused by
+1.  Any live cell with fewer than two live neighbors dies, as if caused by
     underpopulation.
-1.  Any live cell with more than three live neighbours dies, as if by
+1.  Any live cell with more than three live neighbors dies, as if by
     overcrowding.
-1.  Any live cell with two or three live neighbours lives on to the next
+1.  Any live cell with two or three live neighbors lives on to the next
     generation.
-1.  Any dead cell with exactly three live neighbours becomes a live cell.
+1.  Any dead cell with exactly three live neighbors becomes a live cell.
 
 The initial pattern constitutes the seed of the system. The first generation is
 created by applying the above rules simultaneously to every cell in the seed.
@@ -128,7 +128,7 @@ beneficial to start with a large, finite grid. Your solution should work for a
 grid of at least 80x80 cells.
 
 You may want to solve the problem for an infinite grid, but initialize the game
-with a finite grid so it can be displayed on screen.
+with a finite grid so it can be displayed onscreen.
 
 Your solution should work with any arbitrary starting arrangement of dead and
 alive cells. Try initializing each tile randomly with either an alive or a dead
